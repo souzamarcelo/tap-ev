@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph>
+    
+    <node id="1" elevation="200" lat="0" lon="0" />
+    <node id="2" elevation="200" lat="10" lon="0" />
+    <node id="3" elevation="200" lat="20" lon="0" />
+    <node id="4" elevation="200" lat="30" lon="0" />
+    <node id="5" elevation="200" lat="40" lon="0" />
+    <node id="6" elevation="200" lat="0" lon="-10" />
+    <node id="7" elevation="0" lat="10" lon="-10" />
+    <node id="8" elevation="0" lat="20" lon="-10" />
+    <node id="9" elevation="0" lat="30" lon="-10" />
+    <node id="10" elevation="200" lat="40" lon="-10" />
+    <node id="11" elevation="200" lat="0" lon="-20" />
+    <node id="12" elevation="0" lat="10" lon="-20" />
+    <node id="13" elevation="300" lat="20" lon="-20" />
+    <node id="14" elevation="0" lat="30" lon="-20" />
+    <node id="15" elevation="200" lat="40" lon="-20" />
+    <node id="16" elevation="200" lat="0" lon="-30" />
+    <node id="17" elevation="0" lat="10" lon="-30" />
+    <node id="18" elevation="0" lat="20" lon="-30" />
+    <node id="19" elevation="0" lat="30" lon="-30" />
+    <node id="20" elevation="200" lat="40" lon="-30" />
+    <node id="21" elevation="200" lat="0" lon="-40" />
+    <node id="22" elevation="200" lat="10" lon="-40" />
+    <node id="23" elevation="200" lat="20" lon="-40" />
+    <node id="24" elevation="200" lat="30" lon="-40" />
+    <node id="25" elevation="200" lat="40" lon="-40" />
+    
+    <edge id="1" from="1" to="2" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="2" from="1" to="6" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="3" from="2" to="3" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="4" from="2" to="7" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="5" from="3" to="4" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="7" from="4" to="5" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="8" from="4" to="9" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="9" from="5" to="10" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="10" from="6" to="7" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="11" from="6" to="11" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="12" from="7" to="8" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="13" from="7" to="12" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="14" from="8" to="9" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="16" from="9" to="10" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="17" from="9" to="14" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="18" from="10" to="15" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="20" from="11" to="16" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="22" from="12" to="17" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="26" from="14" to="19" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="27" from="15" to="20" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="28" from="16" to="17" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="29" from="16" to="21" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="30" from="17" to="18" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="31" from="17" to="22" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="32" from="18" to="19" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="34" from="19" to="20" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="35" from="19" to="24" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="36" from="20" to="25" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="37" from="21" to="22" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="38" from="22" to="23" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="39" from="23" to="24" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />
+    <edge id="40" from="24" to="25" capacity="200" lenght="1000" fftime="1.67" alpha="0.15" beta="4" velocity="10" directed="true" />    
+
+    <edge id="19" from="11" to="12" capacity="200" lenght="1000" fftime="0.83" alpha="0.15" beta="4" velocity="20" directed="true" />
+    <edge id="21" from="12" to="13" capacity="200" lenght="1000" fftime="0.83" alpha="0.15" beta="4" velocity="20" directed="true" />
+    <edge id="23" from="13" to="14" capacity="200" lenght="1000" fftime="0.83" alpha="0.15" beta="4" velocity="20" directed="true" />
+    <edge id="25" from="14" to="15" capacity="200" lenght="1000" fftime="0.83" alpha="0.15" beta="4" velocity="20" directed="true" />
+    <edge id="6" from="3" to="8" capacity="200" lenght="1000" fftime="0.83" alpha="0.15" beta="4" velocity="20" directed="true" />
+    <edge id="15" from="8" to="13" capacity="200" lenght="1000" fftime="0.83" alpha="0.15" beta="4" velocity="20" directed="true" />
+    <edge id="24" from="13" to="18" capacity="200" lenght="1000" fftime="0.83" alpha="0.15" beta="4" velocity="20" directed="true" />
+    <edge id="33" from="18" to="23" capacity="200" lenght="1000" fftime="0.83" alpha="0.15" beta="4" velocity="20" directed="true" />
+    
+</graph>

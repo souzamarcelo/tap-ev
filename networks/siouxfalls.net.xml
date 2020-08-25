@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<graph>
+    
+    <!--
+    <node id="1" elevation="438" lat="43.57260858" lon="-96.77506953" />
+    <node id="2" elevation="434" lat="43.5642063" lon="-96.73137635" />
+    <node id="3" elevation="436" lat="43.55884336" lon="-96.77946903" />
+    <node id="4" elevation="435" lat="43.55840651" lon="-96.76119246" />
+    <node id="5" elevation="449" lat="43.55812758" lon="-96.7313683" />
+    <node id="6" elevation="408" lat="43.56209266" lon="-96.71150923" />
+    <node id="7" elevation="435" lat="43.55121187" lon="-96.69381537" />
+    <node id="8" elevation="440" lat="43.55121333" lon="-96.71139657" />
+    <node id="9" elevation="428" lat="43.55120896" lon="-96.73131332" />
+    <node id="10" elevation="444" lat="43.5459897" lon="-96.73127711" />
+    <node id="11" elevation="436" lat="43.54394153" lon="-96.7512133" />
+    <node id="12" elevation="432" lat="43.54391334" lon="-96.78024754" />
+    <node id="13" elevation="431" lat="43.51483097" lon="-96.78043932" />
+    <node id="14" elevation="448" lat="43.52945461" lon="-96.75122671" />
+    <node id="15" elevation="452" lat="43.52942349" lon="-96.73130125" />
+    <node id="16" elevation="437" lat="43.54666771" lon="-96.71138853" />
+    <node id="17" elevation="435" lat="43.53481968" lon="-96.71131879" />
+    <node id="18" elevation="456" lat="43.54668764" lon="-96.69407487" />
+    <node id="19" elevation="452" lat="43.52935835" lon="-96.71129063" />
+    <node id="20" elevation="434" lat="43.5154748" lon="-96.71080112" />
+    <node id="21" elevation="431" lat="43.51487425" lon="-96.73122682" />
+    <node id="22" elevation="437" lat="43.52215004" lon="-96.73126638" />
+    <node id="23" elevation="445" lat="43.52212401" lon="-96.75113082" />
+    <node id="24" elevation="435" lat="43.51480957" lon="-96.76110059" />
+    -->
+    
+    <node id="1" elevation="438" lat="100" lon="1020" />
+    <node id="2" elevation="434" lat="640" lon="1020" />
+    <node id="3" elevation="436" lat="100" lon="880" />
+    <node id="4" elevation="435" lat="260" lon="880" />
+    <node id="5" elevation="449" lat="440" lon="880" />
+    <node id="6" elevation="408" lat="640" lon="880" />
+    <node id="7" elevation="435" lat="840" lon="760" />
+    <node id="8" elevation="440" lat="640" lon="760" />
+    <node id="9" elevation="428" lat="440" lon="760" />
+    <node id="10" elevation="444" lat="440" lon="640" />
+    <node id="11" elevation="436" lat="260" lon="640" />
+    <node id="12" elevation="432" lat="100" lon="640" />
+    <node id="13" elevation="431" lat="100" lon="100" />
+    <node id="14" elevation="448" lat="260" lon="380" />
+    <node id="15" elevation="452" lat="440" lon="380" />
+    <node id="16" elevation="437" lat="640" lon="640" />
+    <node id="17" elevation="435" lat="640" lon="520" />
+    <node id="18" elevation="456" lat="840" lon="640" />
+    <node id="19" elevation="452" lat="640" lon="380" />
+    <node id="20" elevation="434" lat="640" lon="100" />
+    <node id="21" elevation="431" lat="440" lon="100" />
+    <node id="22" elevation="437" lat="440" lon="260" />
+    <node id="23" elevation="445" lat="260" lon="260" />
+    <node id="24" elevation="435" lat="260" lon="100" />
+    
+    <edge id="1" from="1" to="2" capacity="25900.20064" lenght="5471.7800988139" fftime="6" alpha="0.15" beta="4" velocity="15.1993891634" directed="true" />
+    <edge id="2" from="1" to="3" capacity="23403.47319" lenght="3701.4983021388" fftime="4" alpha="0.15" beta="4" velocity="15.4229095922" directed="true" />
+    <edge id="3" from="2" to="1" capacity="25900.20064" lenght="5471.7800988139" fftime="6" alpha="0.15" beta="4" velocity="15.1993891634" directed="true" />
+    <edge id="4" from="2" to="6" capacity="4958.180928" lenght="3379.6288845615" fftime="5" alpha="0.15" beta="4" velocity="11.2654296152" directed="true" />
+    <edge id="5" from="3" to="1" capacity="23403.47319" lenght="3701.4983021388" fftime="4" alpha="0.15" beta="4" velocity="15.4229095922" directed="true" />
+    <edge id="6" from="3" to="4" capacity="17110.52372" lenght="2896.8247581956" fftime="4" alpha="0.15" beta="4" velocity="12.0701031591" directed="true" />
+    <edge id="7" from="3" to="12" capacity="23403.47319" lenght="3862.4330109275" fftime="4" alpha="0.15" beta="4" velocity="16.0934708789" directed="true" />
+    <edge id="8" from="4" to="3" capacity="17110.52372" lenght="2896.8247581956" fftime="4" alpha="0.15" beta="4" velocity="12.0701031591" directed="true" />
+    <edge id="9" from="4" to="5" capacity="17782.7941" lenght="1609.3470878864" fftime="2" alpha="0.15" beta="4" velocity="13.4112257324" directed="true" />
+    <edge id="10" from="4" to="11" capacity="4908.82673" lenght="2414.0206318297" fftime="6" alpha="0.15" beta="4" velocity="6.7056128662" directed="true" />
+    <edge id="11" from="5" to="4" capacity="17782.7941" lenght="1609.3470878864" fftime="2" alpha="0.15" beta="4" velocity="13.4112257324" directed="true" />
+    <edge id="12" from="5" to="6" capacity="4947.995469" lenght="2414.0206318297" fftime="4" alpha="0.15" beta="4" velocity="10.0584192993" directed="true" />
+    <edge id="13" from="5" to="9" capacity="10000" lenght="1770.2817966751" fftime="5" alpha="0.15" beta="4" velocity="5.9009393223" directed="true" />
+    <edge id="14" from="6" to="2" capacity="4958.180928" lenght="3379.6288845615" fftime="5" alpha="0.15" beta="4" velocity="11.2654296152" directed="true" />
+    <edge id="15" from="6" to="5" capacity="4947.995469" lenght="2414.0206318297" fftime="4" alpha="0.15" beta="4" velocity="10.0584192993" directed="true" />
+    <edge id="16" from="6" to="8" capacity="4898.587646" lenght="1448.4123790978" fftime="2" alpha="0.15" beta="4" velocity="12.0701031591" directed="true" />
+    <edge id="17" from="7" to="8" capacity="7841.81131" lenght="1770.2817966751" fftime="3" alpha="0.15" beta="4" velocity="9.8348988704" directed="true" />
+    <edge id="18" from="7" to="18" capacity="23403.47319" lenght="1931.2165054637" fftime="2" alpha="0.15" beta="4" velocity="16.0934708789" directed="true" />
+    <edge id="19" from="8" to="6" capacity="4898.587646" lenght="1448.4123790978" fftime="2" alpha="0.15" beta="4" velocity="12.0701031591" directed="true" />
+    <edge id="20" from="8" to="7" capacity="7841.81131" lenght="1770.2817966751" fftime="3" alpha="0.15" beta="4" velocity="9.8348988704" directed="true" />
+    <edge id="21" from="8" to="9" capacity="5050.193156" lenght="3057.7594669842" fftime="10" alpha="0.15" beta="4" velocity="5.0962657783" directed="true" />
+    <edge id="22" from="8" to="16" capacity="5045.822583" lenght="1931.2165054637" fftime="5" alpha="0.15" beta="4" velocity="6.4373883515" directed="true" />
+    <edge id="23" from="9" to="5" capacity="10000" lenght="1770.2817966751" fftime="5" alpha="0.15" beta="4" velocity="5.9009393223" directed="true" />
+    <edge id="24" from="9" to="8" capacity="5050.193156" lenght="3057.7594669842" fftime="10" alpha="0.15" beta="4" velocity="5.0962657783" directed="true" />
+    <edge id="25" from="9" to="10" capacity="13915.78842" lenght="643.7388351546" fftime="3" alpha="0.15" beta="4" velocity="3.576326862" directed="true" />
+    <edge id="26" from="10" to="9" capacity="13915.78842" lenght="643.7388351546" fftime="3" alpha="0.15" beta="4" velocity="3.576326862" directed="true" />
+    <edge id="27" from="10" to="11" capacity="10000" lenght="1287.4776703092" fftime="5" alpha="0.15" beta="4" velocity="4.2915922344" directed="true" />
+    <edge id="28" from="10" to="15" capacity="13512.00155" lenght="1770.2817966751" fftime="6" alpha="0.15" beta="4" velocity="4.9174494352" directed="true" />
+    <edge id="29" from="10" to="16" capacity="4854.917717" lenght="1770.2817966751" fftime="4" alpha="0.15" beta="4" velocity="7.3761741528" directed="true" />
+    <edge id="30" from="10" to="17" capacity="4993.510694" lenght="2574.9553406183" fftime="8" alpha="0.15" beta="4" velocity="5.364490293" directed="true" />
+    <edge id="31" from="11" to="4" capacity="4908.82673" lenght="2414.0206318297" fftime="6" alpha="0.15" beta="4" velocity="6.7056128662" directed="true" />
+    <edge id="32" from="11" to="10" capacity="10000" lenght="1287.4776703092" fftime="5" alpha="0.15" beta="4" velocity="4.2915922344" directed="true" />
+    <edge id="33" from="11" to="12" capacity="4908.82673" lenght="3218.6941757729" fftime="6" alpha="0.15" beta="4" velocity="8.9408171549" directed="true" />
+    <edge id="34" from="11" to="14" capacity="4876.508287" lenght="1448.4123790978" fftime="4" alpha="0.15" beta="4" velocity="6.0350515796" directed="true" />
+    <edge id="35" from="12" to="3" capacity="23403.47319" lenght="3862.4330109275" fftime="4" alpha="0.15" beta="4" velocity="16.0934708789" directed="true" />
+    <edge id="36" from="12" to="11" capacity="4908.82673" lenght="3218.6941757729" fftime="6" alpha="0.15" beta="4" velocity="8.9408171549" directed="true" />
+    <edge id="37" from="12" to="13" capacity="25900.20064" lenght="3218.6941757729" fftime="3" alpha="0.15" beta="4" velocity="17.8816343098" directed="true" />
+    <edge id="38" from="13" to="12" capacity="25900.20064" lenght="3218.6941757729" fftime="3" alpha="0.15" beta="4" velocity="17.8816343098" directed="true" />
+    <edge id="39" from="13" to="24" capacity="5091.256152" lenght="2414.0206318297" fftime="4" alpha="0.15" beta="4" velocity="10.0584192993" directed="true" />
+    <edge id="40" from="14" to="11" capacity="4876.508287" lenght="1448.4123790978" fftime="4" alpha="0.15" beta="4" velocity="6.0350515796" directed="true" />
+    <edge id="41" from="14" to="15" capacity="5127.526119" lenght="1770.2817966751" fftime="5" alpha="0.15" beta="4" velocity="5.9009393223" directed="true" />
+    <edge id="42" from="14" to="23" capacity="4924.790605" lenght="1448.4123790978" fftime="4" alpha="0.15" beta="4" velocity="6.0350515796" directed="true" />
+    <edge id="43" from="15" to="10" capacity="13512.00155" lenght="1770.2817966751" fftime="6" alpha="0.15" beta="4" velocity="4.9174494352" directed="true" />
+    <edge id="44" from="15" to="14" capacity="5127.526119" lenght="1770.2817966751" fftime="5" alpha="0.15" beta="4" velocity="5.9009393223" directed="true" />
+    <edge id="45" from="15" to="19" capacity="14564.75315" lenght="1770.2817966751" fftime="3" alpha="0.15" beta="4" velocity="9.8348988704" directed="true" />
+    <edge id="46" from="15" to="22" capacity="9599.180565" lenght="1931.2165054637" fftime="3" alpha="0.15" beta="4" velocity="10.7289805859" directed="true" />
+    <edge id="47" from="16" to="8" capacity="5045.822583" lenght="1931.2165054637" fftime="5" alpha="0.15" beta="4" velocity="6.4373883515" directed="true" />
+    <edge id="48" from="16" to="10" capacity="4854.917717" lenght="1770.2817966751" fftime="4" alpha="0.15" beta="4" velocity="7.3761741528" directed="true" />
+    <edge id="49" from="16" to="17" capacity="5229.910063" lenght="643.7388351546" fftime="2" alpha="0.15" beta="4" velocity="5.364490293" directed="true" />
+    <edge id="50" from="16" to="18" capacity="19679.89671" lenght="1448.4123790978" fftime="3" alpha="0.15" beta="4" velocity="8.0467354394" directed="true" />
+    <edge id="51" from="17" to="10" capacity="4993.510694" lenght="2574.9553406183" fftime="8" alpha="0.15" beta="4" velocity="5.364490293" directed="true" />
+    <edge id="52" from="17" to="16" capacity="5229.910063" lenght="643.7388351546" fftime="2" alpha="0.15" beta="4" velocity="5.364490293" directed="true" />
+    <edge id="53" from="17" to="19" capacity="4823.950831" lenght="965.6082527319" fftime="2" alpha="0.15" beta="4" velocity="8.0467354394" directed="true" />
+    <edge id="54" from="18" to="7" capacity="23403.47319" lenght="1931.2165054637" fftime="2" alpha="0.15" beta="4" velocity="16.0934708789" directed="true" />
+    <edge id="55" from="18" to="16" capacity="19679.89671" lenght="1448.4123790978" fftime="3" alpha="0.15" beta="4" velocity="8.0467354394" directed="true" />
+    <edge id="56" from="18" to="20" capacity="23403.47319" lenght="4023.3677197161" fftime="4" alpha="0.15" beta="4" velocity="16.7640321655" directed="true" />
+    <edge id="57" from="19" to="15" capacity="14564.75315" lenght="1770.2817966751" fftime="3" alpha="0.15" beta="4" velocity="9.8348988704" directed="true" />
+    <edge id="58" from="19" to="17" capacity="4823.950831" lenght="965.6082527319" fftime="2" alpha="0.15" beta="4" velocity="8.0467354394" directed="true" />
+    <edge id="59" from="19" to="20" capacity="5002.607563" lenght="1770.2817966751" fftime="4" alpha="0.15" beta="4" velocity="7.3761741528" directed="true" />
+    <edge id="60" from="20" to="18" capacity="23403.47319" lenght="4023.3677197161" fftime="4" alpha="0.15" beta="4" velocity="16.7640321655" directed="true" />
+    <edge id="61" from="20" to="19" capacity="5002.607563" lenght="1770.2817966751" fftime="4" alpha="0.15" beta="4" velocity="7.3761741528" directed="true" />
+    <edge id="62" from="20" to="21" capacity="5059.91234" lenght="2092.1512142524" fftime="6" alpha="0.15" beta="4" velocity="5.8115311507" directed="true" />
+    <edge id="63" from="20" to="22" capacity="5075.697193" lenght="2253.085923041" fftime="5" alpha="0.15" beta="4" velocity="7.5102864101" directed="true" />
+    <edge id="64" from="21" to="20" capacity="5059.91234" lenght="2092.1512142524" fftime="6" alpha="0.15" beta="4" velocity="5.8115311507" directed="true" />
+    <edge id="65" from="21" to="22" capacity="5229.910063" lenght="965.6082527319" fftime="2" alpha="0.15" beta="4" velocity="8.0467354394" directed="true" />
+    <edge id="66" from="21" to="24" capacity="4885.357564" lenght="1609.3470878864" fftime="3" alpha="0.15" beta="4" velocity="8.9408171549" directed="true" />
+    <edge id="67" from="22" to="15" capacity="9599.180565" lenght="1931.2165054637" fftime="3" alpha="0.15" beta="4" velocity="10.7289805859" directed="true" />
+    <edge id="68" from="22" to="20" capacity="5075.697193" lenght="2253.085923041" fftime="5" alpha="0.15" beta="4" velocity="7.5102864101" directed="true" />
+    <edge id="69" from="22" to="21" capacity="5229.910063" lenght="965.6082527319" fftime="2" alpha="0.15" beta="4" velocity="8.0467354394" directed="true" />
+    <edge id="70" from="22" to="23" capacity="5000" lenght="1609.3470878864" fftime="4" alpha="0.15" beta="4" velocity="6.7056128662" directed="true" />
+    <edge id="71" from="23" to="14" capacity="4924.790605" lenght="1448.4123790978" fftime="4" alpha="0.15" beta="4" velocity="6.0350515796" directed="true" />
+    <edge id="72" from="23" to="22" capacity="5000" lenght="1609.3470878864" fftime="4" alpha="0.15" beta="4" velocity="6.7056128662" directed="true" />
+    <edge id="73" from="23" to="24" capacity="5078.508436" lenght="804.6735439432" fftime="2" alpha="0.15" beta="4" velocity="6.7056128662" directed="true" />
+    <edge id="74" from="24" to="13" capacity="5091.256152" lenght="2414.0206318297" fftime="4" alpha="0.15" beta="4" velocity="10.0584192993" directed="true" />
+    <edge id="75" from="24" to="21" capacity="4885.357564" lenght="1609.3470878864" fftime="3" alpha="0.15" beta="4" velocity="8.9408171549" directed="true" />
+    <edge id="76" from="24" to="23" capacity="5078.508436" lenght="804.6735439432" fftime="2" alpha="0.15" beta="4" velocity="6.7056128662" directed="true" />
+
+</graph>
