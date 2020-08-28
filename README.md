@@ -1,2 +1,2 @@
 # tap-ev
-Algorithms for the Traffic Assignment Problem with electric Vehicles
+Algorithms for the Traffic Assignment Problem with Electric Vehicles
