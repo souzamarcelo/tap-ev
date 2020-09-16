@@ -1,4 +1,4 @@
-# TAP EV: Traffic Assignment Problem for Electric Vehicles
+# TAP EV: Traffic Assignment Problem with Electric Vehicles
 
 The Traffic Assignment Problem with Electric Vehicles (TAP-EV) considers that drivers of electric vehicles care about the travel time and energy consumption simultaneously. Therefore, the TAP-EV must address both objectives at the same time (a bi-objective problem). This repository contains the source code related to the TAP-EV, including:
 + Algorithms:
