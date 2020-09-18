@@ -18,7 +18,7 @@ The following paper describes the proposed algorithms and the experimental resul
 
 **Bibtex**
 
-```
+```bibtex
 @inproceedings{SouzaEtAl2016tapev,
   title        = {A bi-objective method of traffic assignment for electric vehicles},
   author       = {Souza, Marcelo and Ritt, Marcus and Bazzan, Ana},
